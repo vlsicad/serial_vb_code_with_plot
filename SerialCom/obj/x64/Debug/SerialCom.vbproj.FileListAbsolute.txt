@@ -1,0 +1,10 @@
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\bin\x64\Debug\SerialCom.exe
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\bin\x64\Debug\SerialCom.pdb
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\bin\x64\Debug\SerialCom.xml
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\obj\x64\Debug\SerialCom.Form1.resources
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\obj\x64\Debug\SerialCom.Resources.resources
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\obj\x64\Debug\SerialCom.vbproj.GenerateResource.Cache
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\obj\x64\Debug\SerialCom.exe
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\obj\x64\Debug\SerialCom.xml
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\obj\x64\Debug\SerialCom.pdb
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\obj\x64\Debug\SerialCom.vbprojResolveAssemblyReference.cache

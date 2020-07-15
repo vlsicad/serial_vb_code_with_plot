@@ -1,0 +1,31 @@
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\bin\Debug\SerialCom.exe
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\bin\Debug\SerialCom.pdb
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\bin\Debug\SerialCom.xml
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Form1.resources
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Resources.resources
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.exe
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.xml
+C:\Users\Kelvin\Documents\Visual Studio 2010\Projects\VB\SerialCom\SerialCom\obj\x86\Debug\SerialCom.pdb
+D:\newpprsdn\eegproj_dl1\ser1\SerialCom\SerialCom\obj\x86\Debug\SerialCom.exe
+D:\newpprsdn\eegproj_dl1\ser1\SerialCom\SerialCom\obj\x86\Debug\SerialCom.xml
+D:\newpprsdn\eegproj_dl1\ser1\SerialCom\SerialCom\obj\x86\Debug\SerialCom.pdb
+D:\newpprsdn\eegproj_dl1\ser1\SerialCom\SerialCom\bin\Debug\SerialCom.exe
+D:\newpprsdn\eegproj_dl1\ser1\SerialCom\SerialCom\bin\Debug\SerialCom.pdb
+D:\newpprsdn\eegproj_dl1\ser1\SerialCom\SerialCom\bin\Debug\SerialCom.xml
+D:\newpprsdn\eegproj_dl1\ser1\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbprojResolveAssemblyReference.cache
+D:\newpprsdn\eegproj_dl1\ser1\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Form1.resources
+D:\newpprsdn\eegproj_dl1\ser1\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Resources.resources
+D:\newpprsdn\eegproj_dl1\ser1\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbproj.GenerateResource.Cache
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\bin\Debug\SerialCom.exe
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\bin\Debug\SerialCom.pdb
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\bin\Debug\SerialCom.xml
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Form1.resources
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\obj\x86\Debug\SerialCom.Resources.resources
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbproj.GenerateResource.Cache
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\obj\x86\Debug\SerialCom.exe
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\obj\x86\Debug\SerialCom.xml
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\obj\x86\Debug\SerialCom.pdb
+D:\newpprsdn\eegproj_dl1\ser2\SerialCom\SerialCom\obj\x86\Debug\SerialCom.vbprojResolveAssemblyReference.cache
